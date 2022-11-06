@@ -3,4 +3,4 @@ streamlit_lottie
 Image
 requests
 numpy
-cv2
+opencv
